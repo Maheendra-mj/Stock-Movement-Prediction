@@ -15,8 +15,8 @@ This project uses Reddit data and historical stock information to predict stock 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/stock-movement-prediction.git
-   cd stock-movement-prediction
+   git clone https://github.com/Maheendra-mj/Stock-Movement-Prediction.git
+   cd Stock-Movement-Prediction
    ```
 
 2. Create a virtual environment (optional but recommended):
